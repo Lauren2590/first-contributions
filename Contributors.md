@@ -9765,6 +9765,7 @@ Aman Panjwani
 - [Akash Saravanan](https://github.com/akashsara)
 - [masnoor96g](https://github.com/mansoor96g)
 - [Spencer Burleigh](https://github.com/leaous)
+- [Lauren Harris] (https://github.com/Lauren2590)
 - [Shaun O'Connor](https://github.com/shaunoc09)
 - [Andre Büttner](https://github.com/abuettner)
 - [Akshay Chopra](https://github.com/akshaychopra96)
